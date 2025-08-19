@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <a href="[(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/3_Aditya-Jauhari-Khazindar" target="_blank">
+  <a href="[(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/3_Aditya-Jauhari-Khazindar)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:aditkazindar@gmail.com" target="_blank">
