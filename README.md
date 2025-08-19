@@ -1,6 +1,6 @@
 ![Aditya Banner](img/github-header-banner.png)
 
-<h3 align="center">Hello! My name Aditya Jauhari Khazindar I'm student at SMK Negeri 10 Semarang and I'm a Back-end Dev</h3>
+<!-- <h3 align="center">Hello! My name Aditya Jauhari Khazindar I'm student at SMK Negeri 10 Semarang and I'm a Back-end Dev</h3> -->
 
 ###
 
